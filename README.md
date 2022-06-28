@@ -109,7 +109,9 @@ To return the final result, you must return initialSum outside the bracket of th
 
 *From Google: iterate means to perform or utter repeatedly.*
 
-Try to edit the function in the index.js file to see how the for loop works.
+Try to edit the function in the index.js file in replit  to see how the for loop works.
+
+Link to Replit; https://replit.com/@SharukhVelupill/Grasshopper-Summation-Loop#explanation.md
 
 I hope this helps. 
 
